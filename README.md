@@ -5,7 +5,7 @@ Este es el proyecto final para desarrollo web y móvil usando React, Firebase y 
 ## 👤 Autor
 - Nombre: Cristobal Abarca
 - Repositorio: [https://github.com com/cristobal-abarca/mi-tienda-react](https://github. com/cristobal-abarca/mi-tienda-react)
-- Demo en vivo: [https://startling-pithivier-e09615. netlify. app](https://startling-pithivier-e09615. netlify. app)
+- Demo en vivo: [https://mi-tienda-cristobal.netlify.app/ ]
 
 ## 📋 Descripción
 Una aplicacion web que imita una tienda en linea, cuenta con las siquientes caracteristicas:
